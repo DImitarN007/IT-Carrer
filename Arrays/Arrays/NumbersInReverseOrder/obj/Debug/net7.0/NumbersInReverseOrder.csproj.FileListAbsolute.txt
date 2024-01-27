@@ -1,0 +1,15 @@
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/bin/Debug/net7.0/NumbersInReverseOrder
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/bin/Debug/net7.0/NumbersInReverseOrder.deps.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/bin/Debug/net7.0/NumbersInReverseOrder.runtimeconfig.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/bin/Debug/net7.0/NumbersInReverseOrder.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/bin/Debug/net7.0/NumbersInReverseOrder.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.csproj.AssemblyReference.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.AssemblyInfoInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.AssemblyInfo.cs
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.csproj.CoreCompileInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/refint/NumbersInReverseOrder.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/NumbersInReverseOrder.genruntimeconfig.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/NumbersInReverseOrder/obj/Debug/net7.0/ref/NumbersInReverseOrder.dll

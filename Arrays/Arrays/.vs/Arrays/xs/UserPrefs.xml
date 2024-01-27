@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{56B87DD0-229B-4E5F-A0C1-C8EC9F64A01A}|Default">
+  <MonoDevelop.Ide.ItemProperties.DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Rounding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays-Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ReverseArrayOfStrings FirstBuild="True" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/bin/Debug/net7.0/Rounding
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/bin/Debug/net7.0/Rounding.deps.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/bin/Debug/net7.0/Rounding.runtimeconfig.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/bin/Debug/net7.0/Rounding.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/bin/Debug/net7.0/Rounding.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.csproj.AssemblyReference.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.AssemblyInfoInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.AssemblyInfo.cs
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.csproj.CoreCompileInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/refint/Rounding.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/Rounding.genruntimeconfig.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Rounding/obj/Debug/net7.0/ref/Rounding.dll
