@@ -1,0 +1,15 @@
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/bin/Debug/net7.0/ReverseArrayOfStrings
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/bin/Debug/net7.0/ReverseArrayOfStrings.deps.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/bin/Debug/net7.0/ReverseArrayOfStrings.runtimeconfig.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/bin/Debug/net7.0/ReverseArrayOfStrings.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/bin/Debug/net7.0/ReverseArrayOfStrings.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.csproj.AssemblyReference.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.AssemblyInfoInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.AssemblyInfo.cs
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/refint/ReverseArrayOfStrings.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ReverseArrayOfStrings.genruntimeconfig.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/ReverseArrayOfStrings/obj/Debug/net7.0/ref/ReverseArrayOfStrings.dll

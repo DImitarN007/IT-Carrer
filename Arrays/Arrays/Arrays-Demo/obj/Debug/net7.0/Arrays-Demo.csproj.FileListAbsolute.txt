@@ -1,0 +1,15 @@
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/bin/Debug/net7.0/Arrays-Demo
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/bin/Debug/net7.0/Arrays-Demo.deps.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/bin/Debug/net7.0/Arrays-Demo.runtimeconfig.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/bin/Debug/net7.0/Arrays-Demo.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/bin/Debug/net7.0/Arrays-Demo.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.csproj.AssemblyReference.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.AssemblyInfoInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.AssemblyInfo.cs
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.csproj.CoreCompileInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/refint/Arrays-Demo.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/Arrays-Demo.genruntimeconfig.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/Arrays-Demo/obj/Debug/net7.0/ref/Arrays-Demo.dll

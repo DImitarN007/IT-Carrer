@@ -1,0 +1,15 @@
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/bin/Debug/net7.0/DayOfWeek
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/bin/Debug/net7.0/DayOfWeek.deps.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/bin/Debug/net7.0/DayOfWeek.runtimeconfig.json
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/bin/Debug/net7.0/DayOfWeek.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/bin/Debug/net7.0/DayOfWeek.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.csproj.AssemblyReference.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.AssemblyInfoInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.AssemblyInfo.cs
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/refint/DayOfWeek.dll
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.pdb
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/DayOfWeek.genruntimeconfig.cache
+/Users/danieldimitrov/Desktop/Arrays-Demo/Arrays/DayOfWeek/obj/Debug/net7.0/ref/DayOfWeek.dll
